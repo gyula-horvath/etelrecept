@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\Gyula\Documents\Spring_projektek\11.11_2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2129689294.index
+\etelrecept\src\main\java
